@@ -1,2 +1,196 @@
 # Chathurni_hs21917516
 Chathurni Arangala - github portfolio
+
+<!DOCTYPE HTML>
+<!--
+	Astral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>My Online Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<title>Social Media Links</title>
+		<script src="https://kit.fontawesome.com/9386e0064c.js" crossorigin="anonymous"></script>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper-->
+			<div id="wrapper">
+
+				<!-- Nav -->
+					<nav id="nav">
+						<a href="#" class="icon solid fa-home"><span>About Me</span></a>
+						<a href="#Qualifications" class="icon solid fa-folder"><span>Qualifications</span></a>
+						<a href="#Contact" class="icon solid fa-envelope"><span>Contact</span></a>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Me -->
+							<article id="home" class="panel intro">
+								<header>  
+								    <h1>CHATHURNI ISHARA ARANGALA</h1><br/>
+								        <p>Bio Technology Student at SLIIT</p><br/>
+								        <p1>Detail oriented and hardworking student who is interest in learning a new field, biotechnology within
+								            gene expression as a first-year student. </b> Interest in working on Molecular Biology and Microbiology fields</p1>
+                                                        <br/>
+                                 </header>
+								<a href="#Qualifications" class="jumplink pic">
+									<span class="arrow icon solid fa-chevron-right"><span>See my Qualifications</span></span>
+									<img src="images/My Profile Pic.jpeg" alt="" />
+								</a>
+							</article>
+                          
+                        <!-- Qualifications -->
+							<article id="Qualifications" class="panel">
+								<header>
+								<h1>QUALIFICATIONS</h1>
+								</header><hr/>
+                                <div class="row"></div>
+								<h2> EDUCATIONAL QUALIFICATIONS</h2>
+								<section><hr/>
+									<div class="row1">
+                                    <h3>Higher Education</h3> 
+                                    <br/>
+                                        <p>Bachelor’s Degree in Biotechnology <br/>
+                                        Faculty of Humanities & Sciences <br/>
+                                        Sri Lanka Institute of Information Technology &nbsp; <i>(June 21, 2021- present)</i>
+                                        </p>
+                                    <br/> <br/>
+                                    <h3>Secondary Education</h3>
+                                    <br/>
+                                        <h4><b>Advanced Level Qualification</b> </h4>
+                                            <p>
+                                                Biology- B, Chemistry- C, Physics- S, General English- B&nbsp;&nbsp;&nbsp;&nbsp;<i>(Year 2021)</i>
+                                            </p>
+                                        <h4><b>Odinary Level Qualification</b> </h4>
+                                        <p>
+                                            6A's, 2B's and 1C's &nbsp;&nbsp;&nbsp;&nbsp;<i>(Year 2015)</i>
+                                        </p>
+                                    </div>
+                                </section>
+
+                                <header>
+                                <h1>AWARDS & CERTIFICATES</h1>
+                                </header><hr/>
+								<div class="row"></div>
+                                <h2>AWARDS</h2>
+                                <section><hr/>
+                                    <div class="row1">
+                                    <br/>
+                                        <p>Provincial Tamil Language Competition Second Place&nbsp;&nbsp;&nbsp;&nbsp;<i>(Year 2013)</i><br/>
+                                <h2>CERTIFICATES</h2>
+									</div>
+                                <hr/>
+                                    <div class="row1"><br/>
+                                        <p>Diploma in Advanced English, UOC &nbsp;&nbsp;&nbsp;&nbsp;<i>(June 6, 2021 - present)</i><br/>
+                                        Diploma in Computer Studies, VTC, Dehiwala &nbsp;&nbsp;&nbsp;&nbsp;<i>(November 8, 2020 - present)</i><br/>
+                                        Diploma in English, BAE- Puwakpitiya &nbsp;&nbsp;&nbsp;&nbsp;<i>(September - December 2019)</i><br/>      
+                                        </p>
+                                    </div>
+                                </section>
+
+								<header>
+								<h1>EXTRA CURRICULAR ACTIVITIES</h1>
+								</header> 
+								<hr/>
+								<div class="row">
+                                	<p>Committee member of chess team, Sri Rahula Balika Vidyalaya <br/>
+									Committee member of Science Society, St. Joseph’s Girls’ School<br/>
+									Secretary of ICT Society, Sri Rahula Balika Vidyalaya<br/>
+									Committee member of table tennis, SLIIT<br/>
+									Committee member of Gavel Club, SLIIT<br/>
+									Committee member of Leo Club, SLIIT<br/>
+									</p>
+								</div>
+
+								<header>
+									<h1>OTHER SKILLS</h1>
+								</header>
+								<hr/>
+								<div class="row">
+									<p> Language Skills- English, Sinhala, Tamil<br/>
+										Technical Proficiency- MS Word, PowerPoint, Excel, Outlook, social media<br/>
+									</p>
+								</div>
+
+								<a href= "#https://app.luminpdf.com/viewer/615bb4b608e0130018f114a3/"> <download> Download Resume in practical 1</a>
+								<hr/>	
+								<a href="#Contact" class="jumplink pic">
+									<span class="arrow icon solid fa-chevron-right"><span>See my Contact</span></span>
+									
+								</a> 
+							</article>
+
+						<!-- Contact -->
+                        
+							<article id="Contact" class="panel">
+								<header>
+									<h2>Your Feedback</h2>
+								</header>
+								<form action="#" method="post">
+									<div>
+										<div class="row">
+											<div class="col-6 col-12-medium">
+												<input type="text" name="name" placeholder="Name" />
+											</div>
+											<div class="col-6 col-12-medium">
+												<input type="text" name="email" placeholder="Email" />
+											</div>
+											<div class="col-12">
+												<input type="text" name="subject" placeholder="Subject" />
+											</div>
+											<div class="col-12">
+												<textarea name="message" placeholder="Message" rows="6"></textarea>
+											</div>
+											<div class="col-12">
+												<input type="submit" value="Send Message" />
+											</div>
+										</div>
+									</div>
+								
+									<div>
+										<div class="row1">
+                                			<h2>MY CONTACT DETAILS</h2>
+                                				<p> Whatsapp No- 070-2143043</p>
+										</div>		
+										<div class= "social-links">
+											<a href= "#https://www.linkedin.com/in/chathurniarangala06/" target="_blank">
+												<i class="fab fa-linkedin"></i>
+											</a>
+											
+										</div>
+
+									</div>									
+										
+										
+                                 	
+								</form>
+						    </article>
+					</div>
+
+				<!-- Footer -->
+					<div id="footer">
+						<ul class="copyright">
+							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</div>
+					
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
